@@ -31,10 +31,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task2.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="task2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xiaowei/task2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.82191783">
+            <state vertical-scroll-proportion="-20.0">
               <caret line="130" column="17" selection-start-line="130" selection-start-column="17" selection-end-line="130" selection-end-column="17" />
               <folding>
                 <element signature="n#style#0;n#h2#0;n#header#0;n#div#0;n#aside#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -43,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task3.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="task3.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xiaowei/task3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.5">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.30650684">
+              <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -104,8 +104,8 @@
                 <element signature="n#style#0;n#div#1;n#form#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#form#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1511370463000" expanded="true" signature="73197:73212" placeholder="..." />
-                <marker date="1511370463000" expanded="true" signature="73528:73543" placeholder="..." />
+                <marker date="1511403597000" expanded="true" signature="73197:73212" placeholder="..." />
+                <marker date="1511403597000" expanded="true" signature="73528:73543" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -132,6 +132,7 @@
         <option value="$PROJECT_DIR$/task3.html" />
         <option value="$PROJECT_DIR$/xiaowei/task1.html" />
         <option value="$PROJECT_DIR$/xiaowei/task2.html" />
+        <option value="$PROJECT_DIR$/xiaowei/task3.html" />
       </list>
     </option>
   </component>
@@ -446,17 +447,9 @@
             <element signature="n#style#0;n#div#1;n#form#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#form#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1511370463000" expanded="true" signature="73197:73212" placeholder="..." />
-            <marker date="1511370463000" expanded="true" signature="73528:73543" placeholder="..." />
+            <marker date="1511403597000" expanded="true" signature="73197:73212" placeholder="..." />
+            <marker date="1511403597000" expanded="true" signature="73528:73543" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaowei/task3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -470,11 +463,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xiaowei/task2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.82191783">
+        <state vertical-scroll-proportion="-20.0">
           <caret line="130" column="17" selection-start-line="130" selection-start-column="17" selection-end-line="130" selection-end-column="17" />
           <folding>
             <element signature="n#style#0;n#h2#0;n#header#0;n#div#0;n#aside#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaowei/task3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30650684">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
